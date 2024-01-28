@@ -74,3 +74,7 @@ Technical information of interest to Contributors.
 - [OpenCasacde_online_documentation](https://dev.opencascade.org/doc/overview/html/index.html)
 
 - [Scripted Objects](https://wiki.freecad.org/Scripted_objects)
+
+## TopoNaming Project
+
+- [Notes from the transfer process](./TopoNamingNotes.md)
